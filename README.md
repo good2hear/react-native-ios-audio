@@ -9,6 +9,7 @@ react-native interface for ios avplayer
 
 
 # usage
+```
 var player = require('react-native').NativeModules.RNAudioPlayer;
 
 // initialize 
@@ -48,3 +49,4 @@ player.play()
 
 // pause
 player.pause()
+```
