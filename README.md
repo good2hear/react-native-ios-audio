@@ -3,10 +3,9 @@
 react-native interface for ios avplayer
 
 # installation
-1. run 'npm install --save react-native-ios-audio'
+1. Run 'npm install --save react-native-ios-audio'
 2. Add RNAudioPlayer.h, RNAudioPlayer.m files to "your_project" folder in XCode
-   (they can also be found in your node_modules/react-native-ios-audio/react-native-ios-audio)
-
+   (they can also be found in node_modules/react-native-ios-audio/react-native-ios-audio)
 
 # usage
 ```
