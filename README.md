@@ -8,7 +8,7 @@ react-native interface for ios avplayer
    (they can also be found in node_modules/react-native-ios-audio/react-native-ios-audio)
 
 # usage
-```
+```javascript
 var player = require('react-native').NativeModules.RNAudioPlayer;
 
 // initialize 
